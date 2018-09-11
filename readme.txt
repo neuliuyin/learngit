@@ -9,3 +9,5 @@ line1
 line2
 line3
 line4
+
+Creating a new branch is quick.
