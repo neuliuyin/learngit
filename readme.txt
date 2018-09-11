@@ -10,4 +10,4 @@ line2
 line3
 line4
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
